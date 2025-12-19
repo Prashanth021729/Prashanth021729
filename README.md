@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Prashanth Chanagoni
-I’m a passionate Data Engineer, My expertise spans across Pyspark, SQL, Azure, GCP, Kafka.
+I’m a passionate Data Engineer, My expertise spans across Pyspark,Databricks, SQL, AWS, Kafka.
 - 👀 Interests: Machine Learning, Data Engineerning 
 - 💞️ Open to Collaboration: yes
 - 📫 How to Reach Me: [chanagoniprashanth@gmail.com](mailto:chanagoniprashanth@gmail.com)
